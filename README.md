@@ -7,7 +7,7 @@ _This repository is *public*._
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and
 [PATENTS.md](./PATENTS.md) for important notices.
 
-Your feedback is welcome at _link to GitHub issue tracker_ or at _TC chair email address_.
+Your feedback is welcome at https://github.com/SMPTE/rp2129/issues or at [32nf-chair@smpte.org](mailto:32nf-chair@smpte.org).
 
 ## Public Committee Draft (PCD) Notice
 
