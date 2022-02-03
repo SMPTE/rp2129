@@ -1,4 +1,4 @@
-# {Project or document title}
+# Public CD of SMPTE RP 2129
 
 ## General
 
