@@ -11,12 +11,22 @@ Your feedback is welcome at https://github.com/SMPTE/rp2129/issues or at [32nf-c
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than {YYYY-MM-DD}, and no later than {YYYY-MM-DD}:
+The following elements are made available for a public review period ending no earlier than 2022-10-28, and no later than 2023-03-31:
 
 * [{prose element}]({link to prose element})
 * [{element #1}]({link to element #1})
 * ...
 
-## Details
+## Trust Boundaries
 
-{PCD announcement}
+For years, Broadcasters and Media Operators (Entities) have been handing off the final composite broadcast channel output via unidirectional co-axial connections using SDI and ASI. Recently they have been migrating this traffic to IP-based network interconnections, typically using newer SMPTE standardized IP protocols such as ST 2022. Entities are learning that there are additional security and routing challenges that must be overcome when utilizing IP networking.  
+
+There are two main areas of concern for Entities  when inter-connecting with others via IP networks: Security and Address space.   
+
+The document introduces the concept of a Trust Boundary, which is a security function at the edge(s) of an Entity’s IP network for broadcast composite channel delivery. 
+
+It also describes some of the security, address space and firewalling challenges and makes some recommendations to address these challenges. 
+
+ 
+
+Trust Boundary is a security-focused function deployed at an Entity’s edge that will enable all desired linear media flows in and out, while blocking all other traffic. The location of a Trust Boundary within the workflow from production to consumer is shown in 4 (Trust Boundary Concepts).  Trust boundaries could be considered as media-specific firewalls.  {PCD announcement}
