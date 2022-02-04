@@ -27,4 +27,4 @@ It also describes some of the security, address space and firewalling challenges
 
  
 
-Trust Boundary is a security-focused function deployed at an Entity’s edge that will enable all desired linear media flows in and out, while blocking all other traffic. The location of a Trust Boundary within the workflow from production to consumer is shown in 4 (Trust Boundary Concepts).  Trust boundaries could be considered as media-specific firewalls.  {PCD announcement}
+Trust Boundary is a security-focused function deployed at an Entity’s edge that will enable all desired linear media flows in and out, while blocking all other traffic. The location of a Trust Boundary within the workflow from production to consumer is shown in 4 (Trust Boundary Concepts).  Trust boundaries could be considered as media-specific firewalls.
