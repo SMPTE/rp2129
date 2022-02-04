@@ -13,7 +13,7 @@ Your feedback is welcome at https://github.com/SMPTE/rp2129/issues or at [32nf-c
 
 The following elements are made available for a public review period ending no earlier than 2022-10-28, and no later than 2023-03-31:
 
-* [{prose element}]({https://github.com/SMPTE/rp2129/blob/main/32NF-PCD-RP-2129-Inter%20Entity%20Trust%20Boundary-2022-01-14.pdf})
+* [RP-2129] https://github.com/SMPTE/rp2129/blob/main/32NF-PCD-RP-2129-Inter%20Entity%20Trust%20Boundary-2022-01-14.pdf
 * [{element #1}]({link to element #1})
 * ...
 
