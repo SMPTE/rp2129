@@ -9,6 +9,8 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at https://github.com/SMPTE/rp2129/issues or at [32nf-chair@smpte.org](mailto:32nf-chair@smpte.org).
 
+<!-- PCD-INFO:START -->
+
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2022-10-28, and no later than 2023-03-31:
@@ -28,3 +30,4 @@ It also describes some of the security, address space and firewalling challenges
  
 
 Trust Boundary is a security-focused function deployed at an Entity’s edge that will enable all desired linear media flows in and out, while blocking all other traffic. The location of a Trust Boundary within the workflow from production to consumer is shown in 4 (Trust Boundary Concepts).  Trust boundaries could be considered as media-specific firewalls.
+<!-- PCD-INFO:END -->
